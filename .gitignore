@@ -6,6 +6,9 @@ src/main/resources/application.yml
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+# claude
+.claude/
+
 ### STS ###
 .apt_generated
 .classpath
